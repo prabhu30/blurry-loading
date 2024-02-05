@@ -3,3 +3,4 @@
 
 ### Hosted Version :-
 - Please take a look at the live website hosted on GitHub Pages - [Blurry Loading Image](https://prabhu30.github.io/blurry-loading)
+
